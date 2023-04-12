@@ -6,6 +6,9 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+h1{
+  color: #8355ee;
+}
 :root {
   --primary-color: #f6f7fb;
   --white-color: #fff;
